@@ -20,11 +20,11 @@ const functionName = (params) => {
 ##### **Example**:
 ```javascript
 const greet = (name) => {
-  `console.log("Hello, " + name + "!");`
+  console.log("Hello, " + name + "!");
 }
 ```
 
-> ##### Tip: Functions often perform actions, so naming with a verb can make it clear what the function does. >> Examples include >>> fetchData( ), calculateArea( ), or printReport( ). 
+> ##### Tip: Functions often perform actions, so naming with a verb can make it clear what the function does. Examples include fetchData( ), calculateArea( ), or printReport( ). 
 
 ### 2. Calling a function
 
@@ -48,7 +48,7 @@ const addNums = (numA, numB) => {
 
 const total = addNums(2, 4);
 
-`console.log(total)` // Expected value: 6
+console.log(total) // Expected value: 6
 ```
 
 ###### For more information on functions and how they are used in JS, check out the MDN docs. 
