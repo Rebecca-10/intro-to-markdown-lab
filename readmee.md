@@ -1,6 +1,6 @@
 #  Part 2: How to Create a File Using the Terminal
 
-[terminal window](https://images.unsplash.com/photo-1607743386830-f198fbd7f9c4?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![terminal window](https://images.unsplash.com/photo-1607743386830-f198fbd7f9c4?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 The terminal allows us *to* create files quickly without using a text editor *or* file explorer.  
 Below are the steps *and* commands needed *to* create different types of files directly from *the* command line.
@@ -19,7 +19,7 @@ Check your current location:
 
 ---
 
-## 📌 2. Create a new file using `touch`
+##  2. Create a new file using `touch`
 
 The simplest way *to* create an empty file is:
 
